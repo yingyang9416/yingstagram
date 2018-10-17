@@ -6,7 +6,7 @@
 //  Copyright © 2018 Ying Yang. All rights reserved.
 //
 // new changes
-// new changes made by contributor (test_branch)
+// new changes made by contributor (test branch test)
 
 import UIKit
 import Firebase
