@@ -6,6 +6,8 @@
 //  Copyright © 2018 Ying Yang. All rights reserved.
 //
 // new changes
+// new changes made by contributor (test_branch)
+
 import UIKit
 import Firebase
 import UserNotifications
